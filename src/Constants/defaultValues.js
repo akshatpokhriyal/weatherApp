@@ -1,0 +1,1 @@
+export const baseApiUrl = "http://13.232.62.239/tss"
